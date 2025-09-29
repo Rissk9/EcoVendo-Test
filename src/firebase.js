@@ -6,7 +6,6 @@
 
 // // Your web app's Firebase configuration
 // const firebaseConfig = {
-//   apiKey: "AIzaSyCTdaGISsMpHIv4GP-yIy3GTYBNY3G0hss",
 //   authDomain: "ecovendo-test-e52a6.firebaseapp.com",
 //   projectId: "ecovendo-test-e52a6",
 //   storageBucket: "ecovendo-test-e52a6.firebasestorage.app",
